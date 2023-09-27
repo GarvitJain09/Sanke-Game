@@ -1,2 +1,2 @@
 # Sanke-Game
-Created with CodeSandbox
+Vanilla JS
